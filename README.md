@@ -9,7 +9,7 @@
 - 🔭 My research papers on project MediFi got published in<br> 
                    -> International Conference On Interdisciplinary Research in Technology & Management 2022 (Scopus Indexed) [IEEE Explore](https://ieeexplore.ieee.org/document/9791747) <br>
                    -> 7th International Conference on Emerging Applications of Information Technology (EAIT 2022) [Springer](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_40)<br>
-                   -> 3rd International Conference on Ubiquitous and Emerging concepts on Sensors and Transducers UEMCOS 2021 [American Journal of Electronics & Communication](https://www.ingentaconnect.com/content/smart/ajec/2022/00000002/00000003/art00005)<br>
+                   -> 3rd International Conference on Ubiquitous and Emerging concepts on Sensors and Transducers UEMCOS 2021 [American Journal of Electronics & Communication](https://ajec.smartsociety.org/wp-content/uploads/2024/04/5-MediFi-An-IoT-based-Wireless-and-Portable-System-for-Patients-Healthcare-Monitoring.pdf)<br>
 
 - 👯 I’m looking to collaborate on **Open-Source Project**
 
