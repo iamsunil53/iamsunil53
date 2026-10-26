@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Sharma</h1>
 <h3 align="center">An Embedded System Developer, Software Engineer and Cyber Security Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil531999&label=Profile%20views&color=0e75b6&style=flat" alt="sunil531999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsunil53&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunil53" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sunil531999" target="blank"><img src="https://img.shields.io/twitter/follow/sunil531999?logo=twitter&style=for-the-badge" alt="sunil531999" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamsunil53" target="blank"><img src="https://img.shields.io/twitter/follow/iamsunil53?logo=twitter&style=for-the-badge" alt="iamsunil53" /></a> </p>
 
 - 🌱 I’m a **Computer Science** Graduate
 - 🔭 My research papers on project MediFi got published in<br> 
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **Open-Source Project**
 
-- 👨‍💻 All of my projects are available at [Sunil531999](https://github.com/Sunil531999)
+- 👨‍💻 All of my projects are available at [iamsunil53](https://github.com/iamsunil53)
 
 - 💬 Ask me about **Software Programming, Cyber Security, Embedded Systems**
   
-- 📄 My Portfolio [Portfolio](https://sunil531999.github.io/Portfolio/)
+- 📄 My Portfolio [Portfolio](https://iamsunil53.github.io/Portfolio/)
 
 - 📫 How to reach me **qwerty.sunilsharma@gmail.com**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sunil531999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunil531999" height="30" width="40" /></a>
+<a href="https://twitter.com/iamsunil53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsunil53" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunil-kumar-sharma-12a424237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-kumar-sharma-12a424237" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sunilkumarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunilkumarsharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sunil53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil53" height="30" width="40" /></a>
@@ -54,6 +54,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunil531999&show_icons=true&locale=en" alt="sunil531999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsunil53&show_icons=true&locale=en" alt="iamsunil53" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil531999&" alt="sunil531999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsunil53&" alt="iamsunil53" /></p>
